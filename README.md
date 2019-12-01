@@ -1,0 +1,1 @@
+# camel3-elastic-sb-workaround
